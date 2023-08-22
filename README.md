@@ -8,7 +8,7 @@ This assignment is the frontend Capstone project assigned by Almabetter, titled 
 
 ## Deployment
 
-[Click Here](https://flashcard-generator-almabetter.netlify.app/) to see my flashcard generator website.
+[Click Here](https://almaflashcardgenerator.netlify.app/) to see my flashcard generator website.
 
 ## Run Locally
 
@@ -65,7 +65,7 @@ This project is created with mainly React js , In this project mainly we have th
 
 ## How To Use
 
-1) Open flashcard generator [Click Here](https://flashcard-generator-almabetter.netlify.app/).
+1) Open flashcard generator [Click Here](https://almaflashcardgenerator.netlify.app/).
 
 2) Fill up all the input boxes without any Errors and click on "Create" button.
 
